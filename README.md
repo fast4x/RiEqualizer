@@ -1,5 +1,5 @@
 # RiEqualizer
-Android Audio Equalizer
+Android Real-Time Audio Equalizer
 
 Work in progress...
 
